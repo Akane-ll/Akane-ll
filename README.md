@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-typescript-91062B?style=for-the-badge&logo=typescript&logoColor=blue)
-![Go](https://img.shields.io/badge/Go-91062B?style=for-the-badge&logo=go&logoColor=blue)
+![Go](https://img.shields.io/badge/Go-EB3486?style=for-the-badge&logo=go&logoColor=blue)
 
 ### Operation Skills
 
