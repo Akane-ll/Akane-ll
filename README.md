@@ -15,6 +15,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-typescript-91062B?style=for-the-badge&logo=typescript&logoColor=blue)
 ![Go](https://img.shields.io/badge/Go-EB3486?style=for-the-badge&logo=go&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-95968a?style=for-the-badge)
 
 ### Operation Skills
 
@@ -25,15 +26,16 @@
 ### Development Tools
 
 ![VScode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
+![Apifox](https://img.shields.io/badge/-Apifox-eb34c6?style=for-the-badge&logo=apifox&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-131e80?style=for-the-badge&logo=mysql&logoColor=white)
-![sequelize](https://img.shields.io/badge/-sequelize-63e06f?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Navicat](https://img.shields.io/badge/Navicat-gold?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDb-34eb7a?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Development Frameworks
 
-![eggjs](https://img.shields.io/badge/eggjs-31ae99?style=for-the-badge)
-![tzgin](https://img.shields.io/badge/tzgin-fe4d34?style=for-the-badge)
+![Eggjs](https://img.shields.io/badge/Eggjs-31ae99?style=for-the-badge)
+![TZ-Gin](https://img.shields.io/badge/TZgin-fe4d34?style=for-the-badge)
+![Goframe](https://img.shields.io/badge/Goframe-347aeb?style=for-the-badge)
 
 ### Hobbies
 
