@@ -1,29 +1,23 @@
-<p align="center">
-  <img src="./assets/typewriter-intro.svg" alt="Akane — terminal session" width="100%" />
-</p>
+```bash
+$ whoami
+Akane — self-hoster, agent wrangler
 
-### the fleet
+$ systemctl status fleet
+● fleet.service — active (running): photos, feeds, containers, dashboards
+  Immich · Miniflux · Beszel · Arcane · Open WebUI
 
-A handful of VPS runs the things I actually use — photos, feeds, dashboards — so my data isn't a feature of someone else's product.
-
-Immich · Miniflux · Beszel · Arcane · Open WebUI — the usual suspects. Their heartbeat lives on the [probe](https://monitor.akaneri.tech); the rest of the fleet stays behind the gate.
-
-### into
-
+$ cat into.txt
 - zero-trust networking — every door locked, one key per human
 - the unglamorous craft: backups, uptime, dashboards that tell the truth
-- systemd timers, and the quiet confidence of cron
+- AI models — watching the frontier on homelab hardware
 
-### off the clock
+$ tail -4 off_the_clock
+listening  日向文 · 羊文学 · 星野源 — on Spotify
+reading    Japanese mystery novels · WeRead annual member
+playing    Overwatch · Death Stranding
+watching   anime, seasonally
+```
 
-listening — [日向文](https://www.hinataya.me/) · [羊文学](https://www.hitsujibungaku.info/)
-
-reading — Japanese mystery novels · WeChat Read annual member
-
-playing — Overwatch
-
-watching — anime, seasonally
-
----
+[probe](https://monitor.akaneri.tech) · [日向文](https://www.hinataya.me/) · [羊文学](https://www.hitsujibungaku.info/) · [星野源](https://www.hoshinogen.com/)
 
 *written and deployed by an agent, reviewed by a human*
